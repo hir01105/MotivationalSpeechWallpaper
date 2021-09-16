@@ -2,7 +2,7 @@
 
 ## Description
 **Motivational Speech Wallpaper**はRecursion project1の課題の１つです。  
-この課題を通して、**DOM (Document Object Model)**の基礎を学習しました。  
+この課題を通して、**DOM (Document Object Model)** の基礎を学習しました。  
 簡単なレスポンシブデザインにも対応しました。
 
 ## URL
